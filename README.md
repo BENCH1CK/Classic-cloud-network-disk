@@ -17,6 +17,13 @@
 
 **经典云网盘的官方桌面客户端，与网站数据完全同步**
 
+<div align="center">
+
+### 🚀 快速导航
+
+
+</div>
+
 ---
 
 <div align="center">
@@ -33,9 +40,21 @@
 
 ## 📋 简介
 
-经典云网盘程序是一个功能完整的云存储客户端，提供与网站完全一致的用户体验。支持文件上传、下载、管理、分享等完整功能，让您随时随地访问和管理您的云存储文件。
+<div align="center">
+
+**经典云网盘**是一个功能完整的云存储客户端，提供与网站完全一致的用户体验。
+
+支持文件上传、下载、管理、分享等完整功能，让您随时随地访问和管理您的云存储文件。
+
+✨ **跨平台支持** • 🔒 **安全可靠** • 🚀 **简单易用** • 💾 **数据同步**
+
+</div>
 
 ## ✨ 功能特性
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🔐 用户管理
 - ✅ 用户登录/注册（与网站账号同步）
@@ -50,6 +69,9 @@
 - ✅ 回收站管理（恢复、永久删除）
 - ✅ 文件搜索功能
 - ✅ 文件描述编辑
+
+</td>
+<td width="50%">
 
 ### 📂 文件夹管理
 - ✅ 创建文件夹
@@ -73,19 +95,20 @@
 - ✅ 文件列表自动刷新
 - ✅ 下载次数实时更新
 
+</td>
+</tr>
+</table>
+
 ## 💻 系统要求
 
-### Windows
-- Windows 7 / 8 / 8.1 / 10 / 11
-- Windows Server 2012 R2 及以上版本
-- 支持 32位 和 64位 系统
+<table>
+<tr>
+<td width="33%">
 
-### Linux
-- Ubuntu 18.04 及以上版本
-- Debian 9 及以上版本
-- CentOS 7 及以上版本
-- 其他基于 glibc 的 Linux 发行版
-- 支持 x86_64 和 ARM64 架构
+### 🪟 Windows
+- Windows 7/8/10/11
+- Windows Server 2012 R2+
+- 支持 32位/64位
 
 ### macOS
 - macOS 10.12 (Sierra) 及以上版本
@@ -216,9 +239,37 @@ chmod +x 经典云网盘
 
 ## 📞 技术支持
 
-- **QQ**: 2080341475
-- **邮箱**: 2080341475@qq.com
-- **技术支持时间**: 工作日 8:00-22:00
+<div align="center">
+
+### 💬 联系我们
+
+<table>
+<tr>
+<td align="center">
+
+**📧 邮箱支持**  
+2080341475@qq.com
+
+</td>
+<td align="center">
+
+**💬 QQ支持**  
+2080341475
+
+</td>
+<td align="center">
+
+**⏰ 服务时间**  
+工作日 8:00-22:00
+
+</td>
+</tr>
+</table>
+
+**🐛 发现问题？** [提交 Issue](https://github.com/xuanxuan205/Classic-cloud-network-disk/issues)  
+**💡 有建议？** [功能建议](https://github.com/xuanxuan205/Classic-cloud-network-disk/issues)
+
+</div>
 
 ## 🌐 相关链接
 
@@ -235,4 +286,3 @@ chmod +x 经典云网盘
 Made with ❤️ by Classic Cloud Team
 
 </div>
-
