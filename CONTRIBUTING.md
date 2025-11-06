@@ -8,7 +8,7 @@
 
 如果您发现了问题或有改进建议，请：
 
-1. 检查 [Issues](https://github.com/your-username/classic-cloud-desktop/issues) 中是否已有相关问题
+1. 检查 [Issues](https://github.com/xuanxuan205/Classic-cloud-network-disk/issues) 中是否已有相关问题
 2. 如果没有，请创建新的 Issue
 3. 提供详细的问题描述、复现步骤和系统信息
 
@@ -16,7 +16,7 @@
 
 如果您有功能建议：
 
-1. 在 [Issues](https://github.com/your-username/classic-cloud-desktop/issues) 中创建 Feature Request
+1. 在 [Issues](https://github.com/xuanxuan205/Classic-cloud-network-disk/issues) 中创建 Feature Request
 2. 详细描述功能需求和使用场景
 3. 说明为什么这个功能对用户有价值
 
@@ -109,4 +109,5 @@
 - **QQ**: 2080341475
 
 感谢您的贡献！
+
 
