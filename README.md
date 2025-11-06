@@ -3,12 +3,21 @@
 <div align="center">
 
 ![Classic Cloud Drive](https://img.shields.io/badge/Classic%20Cloud%20Drive-v1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
+![PyQt5](https://img.shields.io/badge/PyQt5-5.15.10-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Downloads](https://img.shields.io/badge/downloads-latest-orange.svg)
+![Issues](https://img.shields.io/github/issues/xuanxuan205/Classic-cloud-network-disk?color=blue)
+![Pull Requests](https://img.shields.io/github/issues-pr/xuanxuan205/Classic-cloud-network-disk?color=green)
+![Stars](https://img.shields.io/github/stars/xuanxuan205/Classic-cloud-network-disk?style=social)
+![Forks](https://img.shields.io/github/forks/xuanxuan205/Classic-cloud-network-disk?style=social)
 
 **经典云网盘的官方桌面客户端，与网站数据完全同步**
 
-[下载](#下载) • [功能特性](#功能特性) • [使用说明](#使用说明) • [系统要求](#系统要求) • [常见问题](#常见问题)
+[📥 下载](#下载) • [✨ 功能特性](#功能特性) • [📖 使用说明](#使用说明) • [💻 系统要求](#系统要求) • [❓ 常见问题](#常见问题)
 
 </div>
 
@@ -89,6 +98,23 @@
 - macOS 13 (Ventura) 及以上版本
 - macOS 14 (Sonoma) 及以上版本
 - 支持 Intel 和 Apple Silicon (M1/M2/M3) 芯片
+
+## 📥 下载
+
+### Windows
+下载 `经典云网盘.exe`，双击运行即可。
+
+### Linux
+下载对应架构的可执行文件，添加执行权限后运行：
+```bash
+chmod +x 经典云网盘
+./经典云网盘
+```
+
+### macOS
+下载 `经典云网盘.app`，双击运行即可。首次运行可能需要授予权限。
+
+---
 
 ## 🚀 快速开始
 
@@ -213,6 +239,3 @@
 Made with ❤️ by Classic Cloud Team
 
 </div>
-
-
-
